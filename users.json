@@ -1,0 +1,35 @@
+{
+  "user1": {
+    "username": "user1",
+    "password": "password1",
+    "created": "2020-07-07 00:16:28.293901"
+  },
+  "user2": {
+    "username": "user2",
+    "password": "password2",
+    "created": "2020-07-07 00:28:07.315781"
+  },
+  "": {
+    "username": "",
+    "password": "",
+    "created": "2021-09-02 16-35-46"
+  },
+  "u3": {
+    "username": "u3",
+    "password": "p4"
+  },
+  "iusfdgkj": {
+    "username": "iusfdgkj",
+    "password": "kjhjklh",
+    "created": "2021-09-02 15-33-37"
+  },
+  "u11i": {
+    "username": "u11i",
+    "password": "u123",
+    "created": "2021-09-02 15-36-05"
+  },
+  "liber": {
+    "username": "liber",
+    "password": "is_very_gay"
+  }
+}
